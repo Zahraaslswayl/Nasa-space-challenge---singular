@@ -106,12 +106,6 @@ Comparison: Both locations have gentle slopes in parts of their terrain.
 
 Comparison: Both locations show clear conditions and relatively low suspended dust in the studied data.
 
-5.8 Solar Radiation
-
-* Kahnawake: Average solar radiation of approximately 12.5 kWh/m²/day, with a solar angle of about 55°–60°.
-* Al Qider: Average solar radiation of approximately 6.1 kWh/m²/day over an 11-year period (CERES).
-
-Comparison: Both locations receive solar radiation, but their measured average values are different.
 
 6. Overall Results
 
