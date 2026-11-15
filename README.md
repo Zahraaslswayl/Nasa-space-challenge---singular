@@ -143,4 +143,11 @@ Project Information
 * Team: Singular
 * Participant: Zahraa Alsuwayl
 * Event: NASA Space Apps Challenge 2026 – Jazan
+* 
+* Use of Artificial Intelligence (AI)
 
+AI tools were used as supporting tools throughout the development of this project. They helped me analyze and understand the collected data, identify potential Earth analogue locations, and understand the characteristics of the selected sites. They also guided me in using scientific websites and data sources, finding relevant datasets, and understanding how to work with them.
+
+In addition, AI tools helped me determine the project steps, organize its structure, plan the required sections, and prepare the presentation and documentation.
+
+The scientific data and sources were the basis of the project, while AI tools supported the research, analysis, and development process.
