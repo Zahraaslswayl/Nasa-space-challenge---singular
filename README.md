@@ -50,6 +50,8 @@ The project used several data sources and platforms:
 * MODIS Corrected Reflectance (Bands 7-2-1): Used to identify dark volcanic rocks and lava flows around Al Qider.
 * NASA POWER: Used to study environmental conditions.
 * NASA SRTM GL1 (30m): Used to analyze Earth’s elevation and terrain, accessed through OpenTopography.
+*  Mars Orbital Data Explorer.
+*  CRISM.
 
 5. Key Findings and Comparative Analysis
 
